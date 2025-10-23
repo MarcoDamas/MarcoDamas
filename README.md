@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I’m currently working on:<br>Improving my skills in software development and building small projects using Java, JavaScript, and React Native.<br>🤝 I’m looking to collaborate on:<br>Open-source projects or student tech initiatives focused on web or mobile app development.<br>🆘 I’m looking for help with:<br>Learning more about backend development, databases, and cloud technologies.<br>🌱 I’m currently learning:<br>Full-stack development and exploring frameworks like JSP, PHP, and React Native.
+🧑‍💻 I’m currently working on:<br>Improving my skills in software development and building small projects using Java, JavaScript, and React Native.<br>🤝 I’m looking to collaborate on:<br>Open-source projects or student tech initiatives focused on web or mobile app development.<br>🆘 I’m looking for help with:<br>Learning more about backend development, databases, and cloud technologies.<br>🌱 I’m currently learning:<br>Full-stack development and exploring frameworks like PHP, and React Native.
 
 
 ## 🌐 Socials:
